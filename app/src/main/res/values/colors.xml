@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#EF4C45</color>
+    <color name="colorPrimaryDark">#CD2E30</color>
+    <color name="colorAccent">#535E6F</color>
+
+    <color name="player_1">#FFCC04</color>
+    <color name="player_2">#BEDE30</color>
 </resources>
